@@ -18,7 +18,16 @@ let package = Package(
     dependencies: [ 
         // Dependencies declare other packages that this package depends on.    
     ],  
-    targets: [  
+    targets: [
+        .target(
+            name: "Glimr", 
+            dependencies: ["Glimr"]
+        ),
+        .target(
+            name: "GLGeoRealtime", 
+            dependencies: ["GLGeoRealtime"]
+        ),
+        
         .binaryTarget(  
             name: "GLGeoRealtime",    
             path: "GLGeoRealtimeStatic.xcframework"   
