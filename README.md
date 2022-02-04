@@ -1,8 +1,10 @@
 ## Glimr Swift SDK
 
-A lightweight SDK for iOS (Swift) that collects and extracts location data from Glimr, a location intelligence provider for publishers. 
+A light weight, non-intrusive and privacy friendly SDK for iOS that collects and extracts location data from Glimr, a location intelligence provider for publishers. 
+You can read more about the Glimr approach to geo targeting here: https://developer.glimr.io/docs/mobile-sdk
 
-The documentation for the Swift SDK is currently produced, but very similar to the Glimr ObjC framework. 
-Further documentation can be found here: https://developer.glimr.io/docs/ios
+## Installation
 
-Please reach out to support@glimr.io if you have any questions. 
+The installation via SPM is easiest and explained in our documentation https://developer.glimr.io/docs/ios
+
+Please reach out to project@glimr.io if you have any questions. 
