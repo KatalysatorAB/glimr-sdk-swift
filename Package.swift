@@ -12,7 +12,7 @@ let package = Package(
         //    name: "GLGeoRealtime",    
         //    targets: ["GLGeoRealtime"]),
         .library(   
-            name: "Glimr Swift",    
+            name: "Glimr",    
             targets: ["Glimr"])   
     ],  
     dependencies: [ 
