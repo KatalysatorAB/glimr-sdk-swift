@@ -1,0 +1,729 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Glimr",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "Glimr"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Glimr",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Glimr",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Glimr"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "Glimr"
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "Glimr"
+      },
+      {
+        "kind": "Import",
+        "name": "AdSupport",
+        "printedName": "AdSupport",
+        "declKind": "Import",
+        "moduleName": "Glimr"
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration.CaptiveNetwork",
+        "printedName": "SystemConfiguration.CaptiveNetwork",
+        "declKind": "Import",
+        "moduleName": "Glimr"
+      },
+      {
+        "kind": "Import",
+        "name": "AppTrackingTransparency",
+        "printedName": "AppTrackingTransparency",
+        "declKind": "Import",
+        "moduleName": "Glimr"
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "Glimr"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Glimr",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AppTrackingTransparency",
+        "printedName": "AppTrackingTransparency",
+        "declKind": "Import",
+        "moduleName": "Glimr"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "GLAudienceManager",
+        "printedName": "GLAudienceManager",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(apiToken:geoFixDecimals:trackId:requestTrackingAuthorization:trackCarrierInfo:trackBatteryInfo:trackNetworkInfo:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GLAudienceManager",
+                "printedName": "Glimr.GLAudienceManager",
+                "usr": "s:5Glimr17GLAudienceManagerC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UUID",
+                "printedName": "Foundation.UUID",
+                "usr": "s:10Foundation4UUIDV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:5Glimr17GLAudienceManagerC8apiToken14geoFixDecimals7trackId28requestTrackingAuthorization0I11CarrierInfo0i7BatteryO00i7NetworkO0AC10Foundation4UUIDV_SiSSSgS4btcfc",
+            "mangledName": "$s5Glimr17GLAudienceManagerC8apiToken14geoFixDecimals7trackId28requestTrackingAuthorization0I11CarrierInfo0i7BatteryO00i7NetworkO0AC10Foundation4UUIDV_SiSSSgS4btcfc",
+            "moduleName": "Glimr",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(apiToken:geoFixDecimals:trackId:requestTrackingAuthorization:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "GLAudienceManager",
+                "printedName": "Glimr.GLAudienceManager",
+                "usr": "s:5Glimr17GLAudienceManagerC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UUID",
+                "printedName": "Foundation.UUID",
+                "usr": "s:10Foundation4UUIDV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:5Glimr17GLAudienceManagerC8apiToken14geoFixDecimals7trackId28requestTrackingAuthorizationAC10Foundation4UUIDV_SiSSSgSbtcfc",
+            "mangledName": "$s5Glimr17GLAudienceManagerC8apiToken14geoFixDecimals7trackId28requestTrackingAuthorizationAC10Foundation4UUIDV_SiSSSgSbtcfc",
+            "moduleName": "Glimr",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "glimrTagsWithCompletion",
+            "printedName": "glimrTagsWithCompletion(completionHandler:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "([Swift.String : Any]?, Swift.Error?) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "([Swift.String : Any]?, Swift.Error?)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "[Swift.String : Any]?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Dictionary",
+                            "printedName": "[Swift.String : Any]",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              },
+                              {
+                                "kind": "TypeNominal",
+                                "name": "ProtocolComposition",
+                                "printedName": "Any"
+                              }
+                            ],
+                            "usr": "s:SD"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.Error?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Error",
+                            "printedName": "Swift.Error",
+                            "usr": "s:s5ErrorP"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Glimr17GLAudienceManagerC23glimrTagsWithCompletion17completionHandleryySDySSypGSg_s5Error_pSgtc_tF",
+            "mangledName": "$s5Glimr17GLAudienceManagerC23glimrTagsWithCompletion17completionHandleryySDySSypGSg_s5Error_pSgtc_tF",
+            "moduleName": "Glimr",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "cachedTags",
+            "printedName": "cachedTags(format:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Any?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GLTagResponseFormat",
+                "printedName": "Glimr.GLTagResponseFormat",
+                "usr": "s:5Glimr19GLTagResponseFormatO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Glimr17GLAudienceManagerC10cachedTags6formatypSgAA19GLTagResponseFormatO_tF",
+            "mangledName": "$s5Glimr17GLAudienceManagerC10cachedTags6formatypSgAA19GLTagResponseFormatO_tF",
+            "moduleName": "Glimr",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:5Glimr17GLAudienceManagerC",
+        "mangledName": "$s5Glimr17GLAudienceManagerC",
+        "moduleName": "Glimr",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "GLTagResponseFormat",
+        "printedName": "GLTagResponseFormat",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "flat",
+            "printedName": "flat",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Glimr.GLTagResponseFormat.Type) -> Glimr.GLTagResponseFormat",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GLTagResponseFormat",
+                    "printedName": "Glimr.GLTagResponseFormat",
+                    "usr": "s:5Glimr19GLTagResponseFormatO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Glimr.GLTagResponseFormat.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GLTagResponseFormat",
+                        "printedName": "Glimr.GLTagResponseFormat",
+                        "usr": "s:5Glimr19GLTagResponseFormatO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:5Glimr19GLTagResponseFormatO4flatyA2CmF",
+            "mangledName": "$s5Glimr19GLTagResponseFormatO4flatyA2CmF",
+            "moduleName": "Glimr"
+          },
+          {
+            "kind": "Var",
+            "name": "map",
+            "printedName": "map",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Glimr.GLTagResponseFormat.Type) -> Glimr.GLTagResponseFormat",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GLTagResponseFormat",
+                    "printedName": "Glimr.GLTagResponseFormat",
+                    "usr": "s:5Glimr19GLTagResponseFormatO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "Glimr.GLTagResponseFormat.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GLTagResponseFormat",
+                        "printedName": "Glimr.GLTagResponseFormat",
+                        "usr": "s:5Glimr19GLTagResponseFormatO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:5Glimr19GLTagResponseFormatO3mapyA2CmF",
+            "mangledName": "$s5Glimr19GLTagResponseFormatO3mapyA2CmF",
+            "moduleName": "Glimr"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GLTagResponseFormat",
+                "printedName": "Glimr.GLTagResponseFormat",
+                "usr": "s:5Glimr19GLTagResponseFormatO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GLTagResponseFormat",
+                "printedName": "Glimr.GLTagResponseFormat",
+                "usr": "s:5Glimr19GLTagResponseFormatO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Glimr19GLTagResponseFormatO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s5Glimr19GLTagResponseFormatO2eeoiySbAC_ACtFZ",
+            "moduleName": "Glimr",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5Glimr19GLTagResponseFormatO9hashValueSivp",
+            "mangledName": "$s5Glimr19GLTagResponseFormatO9hashValueSivp",
+            "moduleName": "Glimr",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5Glimr19GLTagResponseFormatO9hashValueSivg",
+                "mangledName": "$s5Glimr19GLTagResponseFormatO9hashValueSivg",
+                "moduleName": "Glimr",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5Glimr19GLTagResponseFormatO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s5Glimr19GLTagResponseFormatO4hash4intoys6HasherVz_tF",
+            "moduleName": "Glimr",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:5Glimr19GLTagResponseFormatO",
+        "mangledName": "$s5Glimr19GLTagResponseFormatO",
+        "moduleName": "Glimr",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Glimr",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "Glimr",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Glimr"
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "Glimr"
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "Glimr"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 345,
+      "length": 25,
+      "value": "\"https:\/\/api.glimr.io\/v5\""
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 407,
+      "length": 7,
+      "value": "\"3.4.1\""
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5134,
+      "length": 4,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5152,
+      "length": 8,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5134,
+      "length": 4,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5152,
+      "length": 8,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5134,
+      "length": 4,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5152,
+      "length": 8,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLAudienceManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 577,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLAudienceManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 641,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLAudienceManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 673,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLAudienceManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 704,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLAudienceManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 735,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLAudienceManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1137,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLAudienceManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1201,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLAudienceManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4724,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

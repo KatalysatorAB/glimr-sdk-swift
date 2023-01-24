@@ -6,6 +6,6 @@ framework module Glimr {
 }
 
 module Glimr.Swift {
-    header "Glimr-Swift.h"
-    requires objc
+  header "Glimr-Swift.h"
+  requires objc
 }
