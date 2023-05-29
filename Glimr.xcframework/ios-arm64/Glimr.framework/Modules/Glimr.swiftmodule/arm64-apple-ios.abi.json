@@ -625,47 +625,47 @@
       "kind": "StringLiteral",
       "offset": 407,
       "length": 7,
-      "value": "\"3.4.1\""
+      "value": "\"3.4.2\""
     },
     {
       "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5134,
+      "offset": 5150,
       "length": 4,
       "value": "1"
     },
     {
       "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5152,
+      "offset": 5168,
       "length": 8,
       "value": "2"
     },
     {
       "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5134,
+      "offset": 5150,
       "length": 4,
       "value": "1"
     },
     {
       "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5152,
+      "offset": 5168,
       "length": 8,
       "value": "2"
     },
     {
       "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5134,
+      "offset": 5150,
       "length": 4,
       "value": "1"
     },
     {
       "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5152,
+      "offset": 5168,
       "length": 8,
       "value": "2"
     },
@@ -721,7 +721,7 @@
     {
       "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLAudienceManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4724,
+      "offset": 4564,
       "length": 5,
       "value": "false"
     }
