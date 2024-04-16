@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Glimr-Swift.h</key>
 		<data>
-		cJbTQ/z/Z5wE1rbnLYR0V0JmRK4=
+		4raPENFoOwNihVcDvaCdcr8/ABA=
 		</data>
 		<key>Headers/Glimr.h</key>
 		<data>
@@ -14,51 +14,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		y5wb0OYzuj/VwxDII3SE6QhJWSo=
+		RNNWgKSMtnFultt2/k6AIdgbcx4=
 		</data>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		GYT8C3bgEyRi4ZFKc5UfVfGpBKE=
+		iq9cnXvZCdk+08272u2YLDK5924=
 		</data>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		X0WAmtockUbpUyfQn4rxXm4S71E=
+		uZrHuWhQT4EEJ2jnNNb0oFr/PDY=
 		</data>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		pVEMINJskdJ4rIb2nL2hyWxlG2c=
+		CHTUkR4Fiqj7yURVNHQJOD3hq3c=
 		</data>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		X0WAmtockUbpUyfQn4rxXm4S71E=
+		uZrHuWhQT4EEJ2jnNNb0oFr/PDY=
 		</data>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ldJsABPiYZ2lDfEq2d1Vj4sBhVQ=
+		T08kW1VIU9yDQSP4PTTg1L+jbSw=
 		</data>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		GYT8C3bgEyRi4ZFKc5UfVfGpBKE=
+		iq9cnXvZCdk+08272u2YLDK5924=
 		</data>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		r0zeO5hfAMcPNdN/ruDTfxuQAYY=
+		Kh5BOCdNfE+J9RoX0Goq4RXzEP8=
 		</data>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		x2XAvZfcC4AAx8gV6GVfQFboFXM=
+		j6X0ynIoP7DGzm3P+F2iJy+gQwA=
 		</data>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		r0zeO5hfAMcPNdN/ruDTfxuQAYY=
+		Kh5BOCdNfE+J9RoX0Goq4RXzEP8=
 		</data>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Oevg+U+DxzPVL8bBsc1/96yYmOU=
+		ktKFVrrGLhVFw8t74HE1Ky/z6fo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		nUahWK6doO/Rd58xWRS9PFN+sUU=
+		7rgXT3/QjFg6hHKI7i0JiGgcuec=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -67,11 +67,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cJbTQ/z/Z5wE1rbnLYR0V0JmRK4=
+			4raPENFoOwNihVcDvaCdcr8/ABA=
 			</data>
 			<key>hash2</key>
 			<data>
-			M4l5UJr8Fq5fQ1yGJGDYXrhToC7mpqHLR5dHum/q69o=
+			MRGr1yPIAMvEjwgDHveXg1Z3lhQlpuEQ3/1ZPuRpgL8=
 			</data>
 		</dict>
 		<key>Headers/Glimr.h</key>
@@ -89,121 +89,121 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GYT8C3bgEyRi4ZFKc5UfVfGpBKE=
+			iq9cnXvZCdk+08272u2YLDK5924=
 			</data>
 			<key>hash2</key>
 			<data>
-			4V/NlRn5IH28/NFmNhNnye8EPVge+V9jEdH5aGcOgEg=
+			nOlTloOkZ4BVZ+L+phnzRKSMaQKAn5Yk5sojMOBUJ4w=
 			</data>
 		</dict>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			X0WAmtockUbpUyfQn4rxXm4S71E=
+			uZrHuWhQT4EEJ2jnNNb0oFr/PDY=
 			</data>
 			<key>hash2</key>
 			<data>
-			SH4eTgWW0CpfWgnRRM0u142oIM60fYVrvISNjMx6500=
+			6DqO1jqHmvGqt+yCGREpc/ubJM3EjFfGLvxiuVpAIu0=
 			</data>
 		</dict>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pVEMINJskdJ4rIb2nL2hyWxlG2c=
+			CHTUkR4Fiqj7yURVNHQJOD3hq3c=
 			</data>
 			<key>hash2</key>
 			<data>
-			rjpV/YBC01IpDUx8OcdtZdPhoADVooMbGF1Dz9/gK6s=
+			0xNduat8X/NZJaYEreyc3jB4X+btaOwP9j1bkk0Bh3o=
 			</data>
 		</dict>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			X0WAmtockUbpUyfQn4rxXm4S71E=
+			uZrHuWhQT4EEJ2jnNNb0oFr/PDY=
 			</data>
 			<key>hash2</key>
 			<data>
-			SH4eTgWW0CpfWgnRRM0u142oIM60fYVrvISNjMx6500=
+			6DqO1jqHmvGqt+yCGREpc/ubJM3EjFfGLvxiuVpAIu0=
 			</data>
 		</dict>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ldJsABPiYZ2lDfEq2d1Vj4sBhVQ=
+			T08kW1VIU9yDQSP4PTTg1L+jbSw=
 			</data>
 			<key>hash2</key>
 			<data>
-			QQPDxOl6pEF/mBiCKh3r35z+7aZrNr5Seoqo7jdQocg=
+			/qw9A9TUUX/xRFmTpRYTZHMYp4BkhhhhjL6ijBduWrM=
 			</data>
 		</dict>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GYT8C3bgEyRi4ZFKc5UfVfGpBKE=
+			iq9cnXvZCdk+08272u2YLDK5924=
 			</data>
 			<key>hash2</key>
 			<data>
-			4V/NlRn5IH28/NFmNhNnye8EPVge+V9jEdH5aGcOgEg=
+			nOlTloOkZ4BVZ+L+phnzRKSMaQKAn5Yk5sojMOBUJ4w=
 			</data>
 		</dict>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r0zeO5hfAMcPNdN/ruDTfxuQAYY=
+			Kh5BOCdNfE+J9RoX0Goq4RXzEP8=
 			</data>
 			<key>hash2</key>
 			<data>
-			i6kavr3VSfLINXsH4uSZaiZKzkJBucBS+9yoIZ4eXiw=
+			n8jFU8syn4JnY+gVIr+v/Z3Yltg+mwn7pTYraEbtTx0=
 			</data>
 		</dict>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			x2XAvZfcC4AAx8gV6GVfQFboFXM=
+			j6X0ynIoP7DGzm3P+F2iJy+gQwA=
 			</data>
 			<key>hash2</key>
 			<data>
-			4d10HtkSvOxuAqsFynGIuDMQunSLjbPKWzOyxsov0FI=
+			tbBCjeMX0QHUSufq+m5S7PQMwSbC9E/ajjlqJEnWMjs=
 			</data>
 		</dict>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			r0zeO5hfAMcPNdN/ruDTfxuQAYY=
+			Kh5BOCdNfE+J9RoX0Goq4RXzEP8=
 			</data>
 			<key>hash2</key>
 			<data>
-			i6kavr3VSfLINXsH4uSZaiZKzkJBucBS+9yoIZ4eXiw=
+			n8jFU8syn4JnY+gVIr+v/Z3Yltg+mwn7pTYraEbtTx0=
 			</data>
 		</dict>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Oevg+U+DxzPVL8bBsc1/96yYmOU=
+			ktKFVrrGLhVFw8t74HE1Ky/z6fo=
 			</data>
 			<key>hash2</key>
 			<data>
-			/lFE/EcXs9ulWLI7sYg+Xktt2YFurM3jdc0j85T6/+4=
+			/oF395vjfrOYHpygeS8GCXixfTEgijpRgztBM+XNrxo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nUahWK6doO/Rd58xWRS9PFN+sUU=
+			7rgXT3/QjFg6hHKI7i0JiGgcuec=
 			</data>
 			<key>hash2</key>
 			<data>
-			fspcJrPX+vyug91AyZonTfSYp6e5BLW5h3GxCB3nU9M=
+			WLIbVqFqeFioi0tvPOVsdN6zNphJsffnlcjVvOIRT0w=
 			</data>
 		</dict>
 	</dict>

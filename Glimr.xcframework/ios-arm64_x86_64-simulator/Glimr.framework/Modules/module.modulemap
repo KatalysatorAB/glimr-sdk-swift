@@ -1,7 +1,7 @@
 framework module Glimr {
   umbrella header "Glimr.h"
-
   export *
+
   module * { export * }
 }
 

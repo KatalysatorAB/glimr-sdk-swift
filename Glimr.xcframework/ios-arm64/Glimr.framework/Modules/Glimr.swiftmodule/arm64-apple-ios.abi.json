@@ -258,7 +258,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "([Swift.String : Any]?, Swift.Error?) -> ()",
+                "printedName": "([Swift.String : Any]?, (any Swift.Error)?) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -268,7 +268,7 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Tuple",
-                    "printedName": "([Swift.String : Any]?, Swift.Error?)",
+                    "printedName": "([Swift.String : Any]?, (any Swift.Error)?)",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -300,12 +300,12 @@
                       {
                         "kind": "TypeNominal",
                         "name": "Optional",
-                        "printedName": "Swift.Error?",
+                        "printedName": "(any Swift.Error)?",
                         "children": [
                           {
                             "kind": "TypeNominal",
                             "name": "Error",
-                            "printedName": "Swift.Error",
+                            "printedName": "any Swift.Error",
                             "usr": "s:s5ErrorP"
                           }
                         ],
@@ -625,7 +625,7 @@
       "kind": "StringLiteral",
       "offset": 407,
       "length": 7,
-      "value": "\"3.4.2\""
+      "value": "\"3.4.4\""
     },
     {
       "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",
@@ -721,7 +721,7 @@
     {
       "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLAudienceManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 4564,
+      "offset": 4868,
       "length": 5,
       "value": "false"
     }
