@@ -625,7 +625,7 @@
       "kind": "StringLiteral",
       "offset": 407,
       "length": 7,
-      "value": "\"3.4.5\""
+      "value": "\"3.5.0\""
     },
     {
       "filePath": "\/Users\/svenroed\/cloud\/glimr\/glimr-swift-internal\/Glimr\/GLNetworkManager.swift",

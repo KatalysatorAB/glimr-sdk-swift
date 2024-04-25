@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		tj0k9tyy2eC5ZLwpAG+XPu8EC1E=
+		YB8wWTkcSlvjQVv64e7bYP0fN6k=
 		</data>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		AkUZlq5A+LqC4IH63u6fIFOcvJE=
+		TXLpV4M04x1dSWX1URowDURwaeQ=
 		</data>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		tj0k9tyy2eC5ZLwpAG+XPu8EC1E=
+		YB8wWTkcSlvjQVv64e7bYP0fN6k=
 		</data>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,11 +54,15 @@
 		</data>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0P4OeHruMbb5xaf+zoDbLxAgPvo=
+		H8ab0vzY+usOscGlUQsYHRS41r0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		7rgXT3/QjFg6hHKI7i0JiGgcuec=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		eBFMYJ+naktfjNE1ZOpS+wooUjk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -89,11 +93,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tj0k9tyy2eC5ZLwpAG+XPu8EC1E=
+			YB8wWTkcSlvjQVv64e7bYP0fN6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			4JnJxU/E46gEFRdj4LlSIVusm0/U9CVklx+syOH53Xw=
+			CEackPX10D9fsZVaP6NAKbcgrcAhHa+hy3xwFYB40lA=
 			</data>
 		</dict>
 		<key>Modules/Glimr.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -133,22 +137,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AkUZlq5A+LqC4IH63u6fIFOcvJE=
+			TXLpV4M04x1dSWX1URowDURwaeQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			qxlGJKbLTWssFf7FyO67Aq0BBuNIaxpsIGov/mtm9f0=
+			Xg/TndylCE15ZRBSQDEXvqozw33F6W5lNTkgRVpeEwA=
 			</data>
 		</dict>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tj0k9tyy2eC5ZLwpAG+XPu8EC1E=
+			YB8wWTkcSlvjQVv64e7bYP0fN6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			4JnJxU/E46gEFRdj4LlSIVusm0/U9CVklx+syOH53Xw=
+			CEackPX10D9fsZVaP6NAKbcgrcAhHa+hy3xwFYB40lA=
 			</data>
 		</dict>
 		<key>Modules/Glimr.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -188,11 +192,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0P4OeHruMbb5xaf+zoDbLxAgPvo=
+			H8ab0vzY+usOscGlUQsYHRS41r0=
 			</data>
 			<key>hash2</key>
 			<data>
-			zuZ8tjBEQIfITtFvHVPKtvajbpKeU50uLtTEVMCI17E=
+			zUMQv+9P2WrR1jA3uDeE8RgF2J0Jav2DSG6Z1fjvv+E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -204,6 +208,17 @@
 			<key>hash2</key>
 			<data>
 			WLIbVqFqeFioi0tvPOVsdN6zNphJsffnlcjVvOIRT0w=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			eBFMYJ+naktfjNE1ZOpS+wooUjk=
+			</data>
+			<key>hash2</key>
+			<data>
+			prxIafKr1YvGq5yD3UNoLMalVwrnWUhO0fPOp3lquBI=
 			</data>
 		</dict>
 	</dict>
